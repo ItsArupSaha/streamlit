@@ -7,7 +7,7 @@ This project uses a deep learning model trained on Chest X-Ray images to detect 
 - NORMAL (Healthy)
 - PNEUMONIA
 
-🌟 **Live Demo:** [Click here to try the Web App](https://chest-xray-based-detection.streamlit.app/)
+**Live Demo:** [Click here to try the Web App](https://chest-xray-based-detection.streamlit.app/)
 
 ---
 
@@ -47,7 +47,7 @@ If you want to run this project locally:
    streamlit run app.py
    ```
 
-✅ Then open the URL shown in your terminal (usually http://localhost:8501).
+Then open the URL shown in your terminal (usually http://localhost:8501).
 
 ---
 
