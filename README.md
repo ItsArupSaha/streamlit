@@ -11,7 +11,7 @@ This project uses a deep learning model trained on Chest X-Ray images to detect 
 
 ---
 
-## Team Members 👥
+## Team Members
 
 - Arup Saha (ID: 213-134-018)
 - Nafiza Islam Nowrin (ID: 221-134-007)
